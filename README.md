@@ -25,7 +25,7 @@ The Image Recognition Program is a Python script that utilizes a pre-trained mac
 
 2. Open a terminal or command prompt and navigate to the directory where the program files are located.
 
-3. Run the program using the following command:
+3. Run the program
 
 4. You will be prompted to enter the path to an image you want to analyze.
 
